@@ -1,6 +1,8 @@
 gdrive
 ======
 
+As the original repository does not seem maintained at the moment, and as I could not find any real alternative, this fork is used to provide custom versions of the tool with useful (to me) PRs merged.
+Note that I will not be able to provide much maintenance either...
 
 ## Overview
 gdrive is a command line utility for interacting with Google Drive.
